@@ -1,4 +1,4 @@
-# Kamana Shrestha - Automation Engineer
+# Kamana Shrestha
 [LinkedIn](https://www.linkedin.com/in/kamana-shrestha/) |  0450205240 | kamanashrest7@gmail.com | Sydney NSW
 
 Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation Engineer with over five years of industry experience. My expertise lies in automating tests, ensuring software quality, and optimizing software production efficiency. Allow me to guide you through my journey and expertise.
