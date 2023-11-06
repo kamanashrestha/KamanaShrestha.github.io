@@ -35,7 +35,6 @@ reporting, ensuring effective collaboration with the development team and timely
 delivery of high-quality software.
 
 **Automation Tester @Verisk Inc (Feb 2021 - July 2022)**
-Verisk is a leading Big Data analytics provider serving customers in insurance, energy and specialized markets and financial services.
 - My Responsibilities were:
 - Wrote automation script in java and python
 - Automated functional and regression testing approaches to streamline software 
