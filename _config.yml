@@ -1,7 +1,5 @@
-# Configuration for Kamana Shrestha's GitHub Portfolio
-
 title: Kamana Shrestha
-description: Automation Engineer
+description: <span style="font-size: 20px;">Automation Engineer</span>
 show_downloads: false
 theme: jekyll-theme-architect
 avatar: https://github.com/settings/profile.png
