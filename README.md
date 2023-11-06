@@ -11,7 +11,6 @@ Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation
 - **Automation/Development Tools and Frameworks**: Jmeter, IntelliJ, Selenium, Cucumber, REST Assured
 - **API Testing**: Postman
 - **Databases**: MySQL Workbench, Redshift, DBeaver, PostgreSQL, NoSQL (MongoDB, Elasticsearch)
-- **IDE**: Eclipse, IntelliJ
 - **CI/CD Tools**: Jenkins, Maven
 - **Cloud Technologies**: AWS, Azure
 - **Operating Systems**: Linux (Ubuntu), Windows
