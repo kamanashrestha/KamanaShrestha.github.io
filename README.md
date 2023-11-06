@@ -1,5 +1,3 @@
-description: <span style="font-size: 20px;">Automation Engineer</span>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kamana-shrestha/)
 ![Phone](https://img.shields.io/badge/Phone-0450205240-brightgreen)
 ![Email](https://img.shields.io/badge/Email-kamanashrest7%40gmail.com-red)
