@@ -23,49 +23,49 @@ Postgresql, NoSQL (MongoDB, elasticsearch)
 framework to Cucumber framework, ensuring smooth transition of the project.
 - Regression Testing: Conducting biweekly regression testing on every project version 
 release to identify and report defects early in the software development lifecycle.
-• Test Automation: Automating functional and regression testing approaches to 
+- Test Automation: Automating functional and regression testing approaches to 
 streamline software production, improve testing efficiency, and ensure higher product 
 quality.
-• Test Case Design and Management: Designing and updating test cases to complete 
+- Test Case Design and Management: Designing and updating test cases to complete 
 consistent manual tests, ensuring comprehensive test coverage and effective bug 
 detection.
-• API Automation: Developing and executing API automation tests using Cucumber.
-• Task Management and Bug Reporting: Using Jira for task management and bug 
+- API Automation: Developing and executing API automation tests using Cucumber.
+- Task Management and Bug Reporting: Using Jira for task management and bug 
 reporting, ensuring effective collaboration with the development team and timely 
 delivery of high-quality software.
 
 **Automation Tester @Verisk Inc (Feb 2021 - July 2022)**
 Verisk is a leading Big Data analytics provider serving customers in insurance, energy and specialized markets and financial services.
-My Responsibilities were:
-• Wrote automation script in java and python
-• Automated functional and regression testing approaches to streamline software 
+- My Responsibilities were:
+- Wrote automation script in java and python
+- Automated functional and regression testing approaches to streamline software 
 production.
-• Designed and updated test cases to complete consistent manual tests.
-• Created automation scripts using Jmeter and Selenium automation tools
-• Used Selenium to automate web-testing of Disscount Alter App
-• Conducted load tests to determine server operating parameters
-• Used Jenkins to auto-trigger Jmeter Script from Jenkins on each code change from 
+- Designed and updated test cases to complete consistent manual tests.
+- Created automation scripts using Jmeter and Selenium automation tools
+- Used Selenium to automate web-testing of Disscount Alter App
+- Conducted load tests to determine server operating parameters
+- Used Jenkins to auto-trigger Jmeter Script from Jenkins on each code change from 
 Developer’s repo and generate report via email
-• Used Jira for task management and bug reporting
-• Practiced DevOps
+- Used Jira for task management and bug reporting
+- Practiced DevOps
 
 **Automation QA Engineer @Bits and Bytes Technology (Dec 2019 - Feb 2021)**
-Achievements:
-• Built an automation test framework and test scripts from scratch
-• Tested functionality, performance and compliance of each product against design 
+- Achievements:
+- Built an automation test framework and test scripts from scratch
+- Tested functionality, performance and compliance of each product against design 
 specifications to maintain strong development standards and high customer satisfaction.
-• Wrote and updated manual test cases for team use, maintaining optimal organization for 
+- Wrote and updated manual test cases for team use, maintaining optimal organization for 
 maximum productivity.
 
 **Associate Software Engineer @Deerwalk Services (April 2018 - Dec 2019)**
 Achievements:
-• Wrote and maintained program code and automation scripts to extract, transform and 
+- Wrote and maintained program code and automation scripts to extract, transform and 
 load US Healthcare data (Big Data) in cloud using a distributed processing technique
 (Cascading, Java and Hadoop)
 
-**Intern @Microsoft Innovation Center (August 2016 - October 2016)
-Achievements:
-• Made apps in universal platforms that can run in android, windows and IOS (XAMARIN).
+**Intern @Microsoft Innovation Center (August 2016 - October 2016)**
+- Achievements:
+- Built apps in universal platforms that can run in android, windows and IOS (XAMARIN).
 
 ## Education
 **Master’s degree in applied information technology**
