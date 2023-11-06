@@ -5,25 +5,22 @@ Dedicated Automation Tester with 5+ years of industry experience in the full-lif
 process including requirements gathering, prototyping, proof of concepts, design, interface implementation, testing 
 and maintenance with agile methodology.
 
-#### Skills
-• Programming Languages: JAVA, C++, C, Python
-• Automation Tools and Framework: Jmeter, Selenium, Cucumber, REST Assured 
-• Databases: MySql Workbench, Redshift, Dbeaver, 
+## Technical Skills
+- Programming Languages: JAVA, C++, C, Python
+- Automation Tools and Framework: Jmeter, Selenium, Cucumber, REST Assured 
+- Databases: MySql Workbench, Redshift, Dbeaver, 
 Postgresql, NoSQL (MongoDB, elasticsearch)
-• IDE: Eclipse, IntelliJ
-• CI/CD Tools: Jenkins, Maven
-• Cloud Technologies: AWS, Azure
-• Operating system: Linux(Ubuntu),Window
+- IDE: Eclipse, IntelliJ
+- CI/CD Tools: Jenkins, Maven
+- Cloud Technologies: AWS, Azure
+- Operating system: Linux(Ubuntu),Window
 
 ## Work Experience
-**Automation Tester (10/2022 - current)**
-DevOps1
-Sydney, NSW
-
-My Responsibilities are:
-• Framework Migration: Successfully migrating an existing project built on Rest Assured 
+**Automation Tester @Toyota Finance Australia (10/2022 - current)**
+-My Responsibilities are:
+- Framework Migration: Successfully migrating an existing project built on Rest Assured 
 framework to Cucumber framework, ensuring smooth transition of the project.
-• Regression Testing: Conducting biweekly regression testing on every project version 
+- Regression Testing: Conducting biweekly regression testing on every project version 
 release to identify and report defects early in the software development lifecycle.
 • Test Automation: Automating functional and regression testing approaches to 
 streamline software production, improve testing efficiency, and ensure higher product 
