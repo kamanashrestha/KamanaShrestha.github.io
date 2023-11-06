@@ -7,7 +7,8 @@ and maintenance with agile methodology.
 
 ## Technical Skills
 - Programming Languages: JAVA, C++, C, Python
-- Automation Tools and Framework: Jmeter, Selenium, Cucumber, REST Assured 
+- Automation/Development Tools and Framework: Jmeter,Intellij, Selenium, Cucumber, REST Assured
+- API: Postman
 - Databases: MySql Workbench, Redshift, Dbeaver, 
 Postgresql, NoSQL (MongoDB, elasticsearch)
 - IDE: Eclipse, IntelliJ
