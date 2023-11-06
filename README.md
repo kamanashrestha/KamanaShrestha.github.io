@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation
 
 ## Work Experience
 
-### Automation Tester @Toyota Finance Australia (10/2022 - Current)
+### Automation Tester @Toyota Finance Australia (Oct 2022 - Current)
 - **Framework Migration**: Successfully migrated an existing project from Rest Assured to Cucumber, ensuring a smooth transition.
 - **Regression Testing**: Conducted biweekly regression tests to identify and report defects early in the development cycle.
 - **Test Automation**: Automated functional and regression testing to improve software production and quality.
