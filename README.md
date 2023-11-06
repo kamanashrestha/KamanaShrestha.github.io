@@ -1,6 +1,7 @@
-# Automation Engineer
+# Kamana Shrestha - Automation Engineer
+[LinkedIn](https://www.linkedin.com/in/kamana-shrestha/) | Phone: 0450205240 | Email: kamanashrest7@gmail.com
 
-Welcome to my GitHub portfolio! I'm Kamana Shrestha, a dedicated Automation Tester with over 5 years of industry experience in the full life cycle of software design and development. I specialize in automating tests, ensuring software quality, and enhancing the efficiency of software production. Let me walk you through my journey and expertise.
+Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation Engineer with over five years of industry experience. My expertise lies in automating tests, ensuring software quality, and optimizing software production efficiency. Allow me to guide you through my journey and expertise.
 
 ## Skills
 
