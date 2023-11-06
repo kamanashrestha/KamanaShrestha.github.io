@@ -18,7 +18,7 @@ Postgresql, NoSQL (MongoDB, elasticsearch)
 
 ## Work Experience
 **Automation Tester @Toyota Finance Australia (10/2022 - current)**
-| My Responsibilities are:
+   | My Responsibilities are:
 - Framework Migration: Successfully migrating an existing project built on Rest Assured 
 framework to Cucumber framework, ensuring smooth transition of the project.
 - Regression Testing: Conducting biweekly regression testing on every project version 
