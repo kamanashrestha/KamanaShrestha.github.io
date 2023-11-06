@@ -18,7 +18,7 @@ Postgresql, NoSQL (MongoDB, elasticsearch)
 
 ## Work Experience
 **Automation Tester @Toyota Finance Australia (10/2022 - current)**
-- My Responsibilities are:
+| My Responsibilities are:
 - Framework Migration: Successfully migrating an existing project built on Rest Assured 
 framework to Cucumber framework, ensuring smooth transition of the project.
 - Regression Testing: Conducting biweekly regression testing on every project version 
@@ -49,7 +49,7 @@ Developer’s repo and generate report via email
 - Practiced DevOps
 
 **Automation QA Engineer @Bits and Bytes Technology (Dec 2019 - Feb 2021)**
-- Achievements:
+- My Responsibilities were:
 - Built an automation test framework and test scripts from scratch
 - Tested functionality, performance and compliance of each product against design 
 specifications to maintain strong development standards and high customer satisfaction.
@@ -57,13 +57,11 @@ specifications to maintain strong development standards and high customer satisf
 maximum productivity.
 
 **Associate Software Engineer @Deerwalk Services (April 2018 - Dec 2019)**
-Achievements:
 - Wrote and maintained program code and automation scripts to extract, transform and 
 load US Healthcare data (Big Data) in cloud using a distributed processing technique
 (Cascading, Java and Hadoop)
 
 **Intern @Microsoft Innovation Center (August 2016 - October 2016)**
-- Achievements:
 - Built apps in universal platforms that can run in android, windows and IOS (XAMARIN).
 
 ## Education
