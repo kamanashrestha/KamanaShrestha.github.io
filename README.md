@@ -4,26 +4,49 @@
 ![Email](https://img.shields.io/badge/Email-kamanashrest7%40gmail.com-red)
 ![Location](https://img.shields.io/badge/Location-Sydney%2C%20NSW-orange)
 
-Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation Engineer with over five years of industry experience. My expertise lies in automating tests, ensuring software quality, and optimizing software production efficiency. Allow me to guide you through my journey and expertise.
+Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation Engineer with over seven years of industry experience. My expertise lies in automating tests, ensuring software quality, and optimizing software production efficiency. Allow me to guide you through my journey and expertise.
 
 ## Skills
 
-- **Programming Languages**: Java, C++, C, Python
-- **Automation/Development Tools and Frameworks**: Jmeter, IntelliJ, Selenium, Cucumber, REST Assured
-- **API Testing**: Postman
-- **Databases**: MySQL Workbench, Redshift, DBeaver, PostgreSQL, NoSQL (MongoDB, Elasticsearch)
-- **CI/CD Tools**: Jenkins, Maven
+- **Programming Languages**: Java, Gherkin, Groovy, C++, C, SQL
+- **Automation/Development Tools and Frameworks**: Selenium WebDriver, JMeter, Postman, Appium, Cucumber, REST Assured, TestNG, JUnit, BDD/TDD
+- **Databases**: MySQL, PostgreSQL, ETL Processes
+- **IDEs**: Eclipse, IntelliJ IDEA, VSCode, Android Studio, DBeaver
+- **CI/CD Tools**: Jenkins, GitLab
+- **Version Control Systems**: Git, Bitbucket
 - **Cloud Technologies**: AWS, Azure
-- **Operating Systems**: Linux (Ubuntu), Windows
+- **Test Management Tools**: Jira, Confluence, Xray
+- **Methodologies**: Agile (SCRUM), Waterfall
+- **Practices**: DevOps (CI/CD streamline)
+- **Soft Skills**: Communication, Leadership
 
 ## Work Experience
 
 ### Automation Tester @Toyota Finance Australia (Oct 2022 - Current)
-- **Framework Migration**: Successfully migrated an existing project from Rest Assured to Cucumber, ensuring a smooth transition.
-- **Regression Testing**: Conducted biweekly regression tests to identify and report defects early in the development cycle.
-- **Test Automation**: Automated functional and regression testing to improve software production and quality.
-- **API Automation**: Developed and executed API tests using Cucumber.
-- **Task Management and Bug Reporting**: Utilized Jira for effective task management and bug reporting.
+- **Developing Test Scripts**:  
+  - Verified complex financial transactions, report generation, and data integrity across modules of Finance and Insurance products using Java, Selenium, and Cucumber.  
+  - Created automated tests for insurance claim processing systems and customer portals.
+
+- **API Automation Testing**:  
+  - Developed and executed Restful API automation tests using the Cucumber framework.  
+  - Successfully migrated an existing project from the Rest Assured framework to Cucumber.
+
+- **CI/CD Implementation**:  
+  - Implemented CI/CD pipelines using Jenkins and GitHub Actions.  
+  - Scheduled QA scripts as part of the CI/CD workflows.
+
+- **Manual Testing**:  
+  - Conducted manual testing of Web, Mobile, Desktop Applications, Web Services, and Restful APIs.
+
+- **Test Management**:  
+  - Developed and executed comprehensive Test Strategies, Test Plans, and Test Summary Reports for various testing phases, including System Testing, E2E, UA, Stage, and BVT.  
+  - Collaborated with cross-functional teams for test planning, execution, and defect tracking using Jira and Xray integration while documenting processes in Confluence.
+
+- **Database Validation**:  
+  - Wrote SQL queries for database validation, ensuring data integrity and accuracy across multiple test scenarios.
+
+- **Version Control**:  
+  - Utilized GitHub and Bitbucket for code maintenance and version control.
 
 ### Automation Tester @Verisk Inc (Feb 2021 - July 2022)
 - **Automation Scripting**: Wrote automation scripts in Java and Python.
@@ -43,12 +66,10 @@ Welcome to my GitHub portfolio! I am Kamana Shrestha, an accomplished Automation
 - Developed cross-platform apps that run on Android, Windows, and iOS using Xamarin.
 
 ## Education
-- **Master’s Degree in Applied Information Technology**
-  - Victoria University (08/2022)
-  - Sydney, NSW
+- **Master’s Degree in Applied Information Technology**  
+  Victoria University, Australia  
 
-- **Bachelor’s Degree in Computer Engineering**
-  - Pokhara University (02/2018)
-  - Nepal
+- **Bachelor’s Degree in Computer Engineering**  
+  Pokhara University, Nepal  
 
 Feel free to explore my GitHub repositories and connect with me for collaborations and discussions. I'm passionate about automation testing and software quality, and I'm always eager to learn and share knowledge. Let's make software better together!
